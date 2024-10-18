@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**arya-raj26/arya-raj26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **About Me:**
+- 👨‍💻 I'm a passionate **Cybersecurity Enthusiast** currently working in the **Cybersecurity domain** as a **fresher**.
+- 🔐 I enjoy learning about **threat detection**, **network security**, and how to safeguard systems from cyber-attacks.
+- 🌱 I’m currently improving my skills in **penetration testing**, **vulnerability analysis**, and **incident response**.
+- 🚀 Exploring the world of **ethical hacking** and **security automation**.
 
-Here are some ideas to get you started:
+💻 **What I'm Learning:**
+- 📖 Diving into **cybersecurity frameworks** like **NIST**, **ISO 27001**, and **OWASP**.
+- 🔍 Understanding how to use tools like **Wireshark**, **Metasploit**, and **Nmap**.
+- 🔒 Learning to secure **cloud environments** and handle **data protection**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Fun Fact:** I'm always curious about the latest cybersecurity trends and technologies.
+
+---
+
+✨ Feel free to explore my repositories and contribute or collaborate on cybersecurity projects! 🔗
